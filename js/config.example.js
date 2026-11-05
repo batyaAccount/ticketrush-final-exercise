@@ -1,0 +1,3 @@
+window.CONFIG = {
+  PAYMENT_API_KEY: 'YOUR_PAYMENT_API_KEY'
+};
